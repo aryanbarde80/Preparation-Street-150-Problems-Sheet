@@ -11,7 +11,7 @@ This repository contains a curated list of 150 problems to aid in your preparati
 * PS-Sprint-1
 * PS-Sprint-2
 * PS-Sprint-3
-* 
+  
 ## Getting Started
 
 1. Clone the repository: `git clone (urL)
