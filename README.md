@@ -14,7 +14,7 @@ This repository contains a curated list of 150 problems to aid in your preparati
   
 ## Getting Started
 
-1. Clone the repository: `git clone (urL)
+1. Clone the repository: `git clone (https://github.com/aryanbarde80/Preparation-Street-150-Problems-Sheet.git)
 2. Choose a problem to work on and write your solution in the corresponding file.
 3. Test your solution using the provided test cases.
 4. Repeat the process for each problem.
